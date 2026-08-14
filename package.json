@@ -1,0 +1,27 @@
+{
+  "name": "coffee-chain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forselius98/Coffee-chain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forselius98/Coffee-chain/issues"
+  },
+  "homepage": "https://github.com/forselius98/Coffee-chain#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.2.0",
+    "typescript": "^7.0.2"
+  }
+}
