@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { Blockchain } from '../models/Blockchain';
+import { Blockchain } from '../models/Blockchain.ts';
 
 describe('Blockchain Unit Tests (PoW)', () => {
   it('Bör byta ett block med en hash som matchar svårighetsgraden', () => {
