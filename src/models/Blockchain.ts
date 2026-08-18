@@ -1,5 +1,5 @@
 import crypto from 'crypto';
-import { Block, Transaction } from '../types/blockchain.types';
+import { Block, Transaction } from './types/blockchin.types.js';
 export class Blockchain {
   public chain: Block[];
   public pendingTransactions: Transaction[];
